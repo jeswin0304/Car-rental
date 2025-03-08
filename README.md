@@ -1,6 +1,6 @@
 # Car-rental
 
--connect the database to mysql 
--open the project in netbeans or vscode 
--install c++ extentions
--run it 
+- connect the database to mysql <br>
+- open the project in netbeans or vscode <br>
+- install java extentions<br>
+- run it <br>
